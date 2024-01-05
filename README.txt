@@ -19,7 +19,7 @@ Check:
 
 - Install npm to VSCode:
     
-    Watch the quick video: 
+    Watch the quick video: (will upload video soon!)
 
 - Confirm npm is installed (command: npm -v)
 
