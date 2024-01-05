@@ -11,10 +11,10 @@ BEFORE RUN NODE
 
 Check:
 
-- VSCode capable to execute C/C++ files (command: g++ example.cpp -o example). If not, install necessarry extensions.
+- If VSCode capable to execute C/C++ files (command: g++ example.cpp -o example). If not, install necessarry extensions.
   Make sure .vscode file generated under your project directory.
 
-- VSCode capable to execute C# files (command: dotnet run). If not, install necessarry extensions (TargetFramework net8.0).
+- If VSCode capable to execute C# files (command: dotnet run). If not, install necessarry extensions (TargetFramework net8.0).
   look TestForReadCSharp/TestForReadCSharp.csproj file for details. 
   Make sure TestForReadCSharp file generated under your project directory.
 
