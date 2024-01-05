@@ -32,6 +32,6 @@ RUN NODE
   Command prompts will appear in the terminal to check and confirm that each JS file is working.
   If node run successfully, prompt message will appear with local http server address.
 
-- At start, Index_cpp.html will run in local server.
+- At start, Index.html will run in local server.
 - To change file to run in local server, !"code_file_extension"! should change accordingly.
   (Ex: to run cs file, value of string should be .cs, for c++, .cpp etc..) 
