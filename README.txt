@@ -6,8 +6,7 @@ BEFORE RUN NODE
 
 - Developed with VSCode
 - If working with IDE, apply necessary changes.
-- Running npm install in a script requires that you have Node.js and npm installed on your machine, 
-  and it may prompt for user input if there's an interactive requirement during the installation process.
+- Running npm install in a script requires that you have Node.js and npm installed on your machine, and it may prompt for user input if there's an interactive requirement during the installation process.
 
 Check:
 
