@@ -25,7 +25,7 @@ Check:
 
 RUN NODE
 
-- Required Packages: check_packages.js  and package_install.js check and install 
+- Required Packages: check_packages.js  and package_install.js check and install required
   node modules to run program (suggest to check which modules will install before run node).
 
 - Run program: node read_any_code.js command will run program, check and install required packages automatically.
