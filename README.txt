@@ -1,8 +1,8 @@
-#ABSTRACT
+# ABSTRACT
 
 Nodejs Application to run C++, C# and HTML files through local server. 
 
-#BEFORE RUN NODE 
+# BEFORE RUN NODE 
 
 - Developed with VSCode
 - If working with IDE, apply necessary changes.
@@ -23,7 +23,7 @@ Check:
 
 - Confirm npm is installed (command: npm -v)
 
-#RUN NODE
+# RUN NODE
 
 - Required Packages: check_packages.js  and package_install.js check and install required
   node modules to run program (suggest to check which modules will install before run node).
